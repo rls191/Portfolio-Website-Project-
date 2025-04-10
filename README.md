@@ -1,2 +1,2 @@
 # Portfolio Website Project 
- Portfolio website for composing digital media class. 
+Welcome to my portfolio for composing digital media! This website is defintiyly still in progress but I am proud of what I have to show so far. I linked both of my projects separately on the main HTML website. I messed around with the colors a little but so far just to make it a little cute. I also made graphics for each project on Canva and added those to the website for some graphics and color. I am excited to see this website grow and keep adding! 
