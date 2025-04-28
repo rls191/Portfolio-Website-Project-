@@ -9,19 +9,7 @@ h1, h2,h3 {font-family: 'Times New Roman', Times, serif;
             background:white}  
 
 
-body { #box1 {border: 5px solid; 
-    height: 500px; 
-    width: 500px; 
-    position:absolute;} 
 
-#box2 {border: 5px solid; 
-height: 500px; 
-width: 500px;
-position:absolute; 
-left: 700px;
-;} 
- }
-
- div.box{   
-        height:500px; 
-        width: 500px; }
+ img { border-width: 20px;
+    border-style: solid;
+    border-color:rgb(255, 77, 0);}
